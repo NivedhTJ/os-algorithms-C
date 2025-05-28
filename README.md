@@ -1,4 +1,5 @@
-OS_Algorithms_C
+#OS_Algorithms_C
+
 A collection of CPU scheduling, disk scheduling, and page replacement algorithm implementations in C, simulating core concepts of Operating Systems.
 
 #Overview
