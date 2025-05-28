@@ -18,11 +18,11 @@
 
 - The repository is organized into the following directories:
 
-- CPU_Scheduling_Algorithms/: Contains implementations of various CPU scheduling algorithms.
+-  CPU_Scheduling_Algorithms/: Contains implementations of various CPU scheduling algorithms.
 
-- Disk_Scheduling_Algorithms/: Includes different disk scheduling algorithm simulations.
+-  Disk_Scheduling_Algorithms/: Includes different disk scheduling algorithm simulations.
 
-- Page_reaplacement_Algorithms/: Houses page replacement algorithm implementations.
+-  Page_reaplacement_Algorithms/: Houses page replacement algorithm implementations.
 
 ## Prerequisites
 - To compile and run the programs, ensure you have a C compiler installed, such as gcc.
