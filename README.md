@@ -1,7 +1,8 @@
 OS_Algorithms_C
 A collection of CPU scheduling, disk scheduling, and page replacement algorithm implementations in C, simulating core concepts of Operating Systems.
 
-Overview
+#Overview
+
 This repository contains C implementations of fundamental operating system algorithms, including:
 
 CPU Scheduling Algorithms: Simulate how processes are scheduled for execution.
