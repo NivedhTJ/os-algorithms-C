@@ -3,20 +3,18 @@
 - A collection of CPU scheduling, disk scheduling, and page replacement algorithm implementations in C, simulating core concepts of Operating Systems.
 
 ## Overview
+This repository contains C implementations of fundamental operating system algorithms, including:
 
-- This repository contains C implementations of fundamental operating system algorithms, including:
+-  CPU Scheduling Algorithms: Simulate how processes are scheduled for execution.
 
-- CPU Scheduling Algorithms: Simulate how processes are scheduled for execution.
+-  Disk Scheduling Algorithms: Manage how disk I/O requests are ordered.
 
-- Disk Scheduling Algorithms: Manage how disk I/O requests are ordered.
-
-- Page Replacement Algorithms: Handle memory management by deciding which memory pages to swap out.
+-  Page Replacement Algorithms: Handle memory management by deciding which memory pages to swap out.
 
 - These implementations serve as educational tools for understanding the inner workings of operating systems.
 
 ## Contents
-
-- The repository is organized into the following directories:
+The repository is organized into the following directories:
 
 -  CPU_Scheduling_Algorithms/: Contains implementations of various CPU scheduling algorithms.
 
