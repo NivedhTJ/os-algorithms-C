@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>
+#include <stdlib.h> //for the abs function
 
 int main()
 {
@@ -13,7 +13,7 @@ int main()
     for (i = 0; i < n; i++)
     {
         scanf("%d", &request[i]);
-        serviced[i] = 0;
+        serviced[i] = 0; // all requests are initialized as unserviceid
     }
 
     printf("Enter the initial head position: ");
@@ -25,9 +25,9 @@ int main()
     for (i = 0; i < n; i++)
     {
         min = 9999;
-        pos = -1;
+        pos = -1; // stores the position of the serviced request initialized to -1 in the beginning
 
-        for (j = 0; j < n; j++)
+        for (j = 0; j < n; j++) // go through the entire array to find the minimum value
         {
             if (!serviced[j])
             {
